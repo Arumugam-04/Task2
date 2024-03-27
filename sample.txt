@@ -1,0 +1,16 @@
+Difference between document and window object :
+    Document:
+    #- it repressnts any HTML document and web page that is loaded in the broswer.
+    #-Html document that gets loaded into window becomes a document object.
+    #-The document contains the contents of the page.
+    #-the document object can access  a document object either using window.document directly as window is global object.
+    #-it is loaded inside the window only..
+    #-All the tags elements with attributes in html are part of the document.
+
+
+    window object:
+    #-it is the top most object and outermost element of the object hierarchy.
+    #-the window object represent a broswer window containing a dom document.
+    #-it represent a broswer window that displays the contents  of the webpages.
+    #-we can access the window from the window only..
+      
